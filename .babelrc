@@ -9,6 +9,7 @@
         "transform-function-bind",
         "transform-object-rest-spread",
         "transform-optional-chaining",
+        "transform-export-extensions",
         ["provide-modules", {
           "classnames": "classNames",
           "core-js/fn/promise": "Promise",
